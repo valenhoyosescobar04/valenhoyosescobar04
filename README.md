@@ -69,7 +69,7 @@
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="45"/><br/><sub>Figma</sub>
     </td>
     <td align="center" width="90">
-      <img src="https://avatars.githubusercontent.com/u/1986444?s=200&v=4" width="45"/><br/><sub>Lucidchart</sub>
+      <img src="https://images.ctfassets.net/spoqsaf9291f/8cfb0e25-fb31-43f2-bf85-5e19b092b813/b80f8086f5f93030dbdf1d39d2e4d065/lucidchart_512x512" width="45"/><br/><sub>Lucidchart</sub>
     </td>
   </tr>
 </table>
@@ -94,7 +94,11 @@
 ## 🐍 Contribution Snake
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/valenhoyosescobar04/valenhoyosescobar04/output/github-contribution-grid-snake.svg"/>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/valenhoyosescobar04/valenhoyosescobar04/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/valenhoyosescobar04/valenhoyosescobar04/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/valenhoyosescobar04/valenhoyosescobar04/output/github-contribution-grid-snake.svg">
+  </picture>
 </div>
 
 ---
