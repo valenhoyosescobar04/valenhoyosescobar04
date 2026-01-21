@@ -45,6 +45,9 @@
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" width="45"/><br/><sub>Dart</sub>
     </td>
     <td align="center" width="90">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="45"/><br/><sub>Spring Boot</sub>
+    </td>
+    <td align="center" width="90">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="45"/><br/><sub>Java</sub>
     </td>
     <td align="center" width="90">
@@ -53,28 +56,37 @@
     <td align="center" width="90">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="45"/><br/><sub>HTML</sub>
     </td>
-  </tr>
-  <!-- FILA 2 -->
-  <tr>
     <td align="center" width="90">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="45"/><br/><sub>CSS</sub>
     </td>
+  </tr>
+
+  <!-- FILA 2 -->
+  <tr>
     <td align="center" width="90">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="45"/><br/><sub>Docker</sub>
     </td>
-    <td align="center" width="90">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="45"/><br/><sub>AWS</sub>
-    </td>
+    <td align="center" width="90"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="45"/><br/><sub>AWS</sub> </td>
     <td align="center" width="90">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="45"/><br/><sub>Figma</sub>
     </td>
     <td align="center" width="90">
       <img src="https://images.ctfassets.net/spoqsaf9291f/8cfb0e25-fb31-43f2-bf85-5e19b092b813/b80f8086f5f93030dbdf1d39d2e4d065/lucidchart_512x512" width="45"/><br/><sub>Lucidchart</sub>
     </td>
+    <td align="center" width="90">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="45"/><br/><sub>MySQL</sub>
+    </td>
+    <td align="center" width="90">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="45"/><br/><sub>MongoDB</sub>
+    </td>
+    <td align="center" width="90">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="45"/><br/><sub>PostgreSQL</sub>
+    </td>
   </tr>
 </table>
 
 </div>
+
 
 ---
 
