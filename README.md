@@ -2,7 +2,7 @@
 
 <!-- HEADER ROSADO -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FFB6D5,50:FF69B4,100:DB4C77&height=260&section=header&text=Valentina%20Hoyos&desc=Software%20Engineering%20Student%20%7C%20Developer&animation=fadeIn&fontAlignY=40&fontSize=52&fontColor=FFFFFF&descAlignY=62" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FFB6D5,50:FF69B4,100:DB4C77&height=260&section=header&text=Valentina%20Hoyos%20Escobar&desc=Software%20Engineering%20Student%20%7C%20Developer&animation=fadeIn&fontAlignY=40&fontSize=52&fontColor=FFFFFF&descAlignY=62" width="100%"/>
 </div>
 
 <div align="center">
